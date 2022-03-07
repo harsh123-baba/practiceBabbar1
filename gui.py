@@ -10,6 +10,7 @@ name_label.grid(row = 0, column=0, sticky=tk.W);
 #  entry box
 # how to stores its data inside any variable
 
+#hii
 nameVar = tk.StringVar();
 
 name_entrybox = ttk.Entry(root, width=16, textvariable=nameVar)
